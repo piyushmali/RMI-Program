@@ -3,7 +3,7 @@ import java.rmi.RemoteException;
 import java.util.Date;
 
 /**
- * @author Nilesh Akhade
+ * @author Piyush Mali
  * Server Interface, this defines services that must be provided by class which implement it
  */
 public interface ServerIntf extends Remote {
